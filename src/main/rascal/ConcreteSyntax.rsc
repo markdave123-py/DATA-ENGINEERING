@@ -13,4 +13,4 @@ start syntax Expression
     ;
 
 layout Whitespace
-    = [\ \t\n]*;
+    = [\ \t\n]+ ;
